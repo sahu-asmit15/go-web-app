@@ -1,7 +1,7 @@
 image:
   repository: sahuasmit15/go-web-app
   pullPolicy: IfNotPresent
-  tag: "v1"
+  tag: "29339448063"
 
 ingress:
   enabled: false
